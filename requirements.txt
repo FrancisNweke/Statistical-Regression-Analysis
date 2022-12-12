@@ -1,0 +1,14 @@
+# How to install(for example): pip install pandas
+
+# pip install skfeature-chappers
+# pip install imblearn
+# pip install missingno
+
+
+pandas~=1.4.1
+numpy~=1.21.6
+scikit-learn~=1.0.2
+keras~=2.8.0
+matplotlib~=3.3.4
+seaborn~=0.11.2
+plotly~=5.7.0
